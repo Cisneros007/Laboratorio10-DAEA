@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumno\\source\\repos\\salvatierra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74244088-897E-4BBD-936A-05C98D04F4B0}|salvatierra\\salvatierra.csproj|c:\\users\\alumno\\source\\repos\\salvatierra\\salvatierra\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74244088-897E-4BBD-936A-05C98D04F4B0}|salvatierra\\salvatierra.csproj|solutionrelative:salvatierra\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74244088-897E-4BBD-936A-05C98D04F4B0}|salvatierra\\salvatierra.csproj|c:\\users\\alumno\\source\\repos\\salvatierra\\salvatierra\\views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74244088-897E-4BBD-936A-05C98D04F4B0}|salvatierra\\salvatierra.csproj|solutionrelative:salvatierra\\views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74244088-897E-4BBD-936A-05C98D04F4B0}|salvatierra\\salvatierra.csproj|c:\\users\\alumno\\source\\repos\\salvatierra\\salvatierra\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74244088-897E-4BBD-936A-05C98D04F4B0}|salvatierra\\salvatierra.csproj|solutionrelative:salvatierra\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74244088-897E-4BBD-936A-05C98D04F4B0}|salvatierra\\salvatierra.csproj|c:\\users\\alumno\\source\\repos\\salvatierra\\salvatierra\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74244088-897E-4BBD-936A-05C98D04F4B0}|salvatierra\\salvatierra.csproj|solutionrelative:salvatierra\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74244088-897E-4BBD-936A-05C98D04F4B0}|salvatierra\\salvatierra.csproj|c:\\users\\alumno\\source\\repos\\salvatierra\\salvatierra\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74244088-897E-4BBD-936A-05C98D04F4B0}|salvatierra\\salvatierra.csproj|solutionrelative:salvatierra\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74244088-897E-4BBD-936A-05C98D04F4B0}|salvatierra\\salvatierra.csproj|c:\\users\\alumno\\source\\repos\\salvatierra\\salvatierra\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74244088-897E-4BBD-936A-05C98D04F4B0}|salvatierra\\salvatierra.csproj|solutionrelative:salvatierra\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74244088-897E-4BBD-936A-05C98D04F4B0}|salvatierra\\salvatierra.csproj|c:\\users\\alumno\\source\\repos\\salvatierra\\salvatierra\\models\\salvatierramodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{74244088-897E-4BBD-936A-05C98D04F4B0}|salvatierra\\salvatierra.csproj|solutionrelative:salvatierra\\models\\salvatierramodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74244088-897E-4BBD-936A-05C98D04F4B0}|salvatierra\\salvatierra.csproj|c:\\users\\alumno\\source\\repos\\salvatierra\\salvatierra\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74244088-897E-4BBD-936A-05C98D04F4B0}|salvatierra\\salvatierra.csproj|solutionrelative:salvatierra\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74244088-897E-4BBD-936A-05C98D04F4B0}|salvatierra\\salvatierra.csproj|c:\\users\\alumno\\source\\repos\\salvatierra\\salvatierra\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74244088-897E-4BBD-936A-05C98D04F4B0}|salvatierra\\salvatierra.csproj|solutionrelative:salvatierra\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74244088-897E-4BBD-936A-05C98D04F4B0}|salvatierra\\salvatierra.csproj|c:\\users\\alumno\\source\\repos\\salvatierra\\salvatierra\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74244088-897E-4BBD-936A-05C98D04F4B0}|salvatierra\\salvatierra.csproj|solutionrelative:salvatierra\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\salvatierra\\salvatierra\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "salvatierra\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\salvatierra\\salvatierra\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "salvatierra\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:02:56.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\salvatierra\\salvatierra\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "salvatierra\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\salvatierra\\salvatierra\\Models\\Student.cs",
+              "RelativeToolTip": "salvatierra\\Models\\Student.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:46:25.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\salvatierra\\salvatierra\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "salvatierra\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\salvatierra\\salvatierra\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "salvatierra\\Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T01:42:56.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\salvatierra\\salvatierra\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "salvatierra\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\salvatierra\\salvatierra\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "salvatierra\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T01:32:01.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\salvatierra\\salvatierra\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "salvatierra\\Views\\Students\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\salvatierra\\salvatierra\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "salvatierra\\Views\\Students\\Details.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T01:32:57.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\salvatierra\\salvatierra\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "salvatierra\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\salvatierra\\salvatierra\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "salvatierra\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwDwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T01:32:01.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "salvatierraModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\salvatierra\\salvatierra\\Models\\salvatierraModel.edmx",
+              "RelativeDocumentMoniker": "salvatierra\\Models\\salvatierraModel.edmx",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\salvatierra\\salvatierra\\Models\\salvatierraModel.edmx [Diagram1]",
+              "RelativeToolTip": "salvatierra\\Models\\salvatierraModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-30T00:47:13.621Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\salvatierra\\salvatierra\\Views\\Students\\Delete.cshtml",
+              "RelativeDocumentMoniker": "salvatierra\\Views\\Students\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\salvatierra\\salvatierra\\Views\\Students\\Delete.cshtml",
+              "RelativeToolTip": "salvatierra\\Views\\Students\\Delete.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T01:34:06.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\salvatierra\\salvatierra\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "salvatierra\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\salvatierra\\salvatierra\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "salvatierra\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T00:56:48.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnrollmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\salvatierra\\salvatierra\\Controllers\\EnrollmentsController.cs",
+              "RelativeDocumentMoniker": "salvatierra\\Controllers\\EnrollmentsController.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\salvatierra\\salvatierra\\Controllers\\EnrollmentsController.cs",
+              "RelativeToolTip": "salvatierra\\Controllers\\EnrollmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:10:28.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
